@@ -5,7 +5,7 @@
 
   - 👩‍💻 Full Stack Programmer
   - 📚 I am currently studdying Cibersecurity
-  - 🎓 Bachelor Information System @ [UFPEL](https://projecao.br/faculdade)
+  - 🎓 Bachelor Information System @ [PROJECAO](https://projecao.br/faculdade)
 
 </p>
 
